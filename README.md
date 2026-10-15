@@ -50,7 +50,4 @@ fixed-buffer/`send_zc_fixed`/multishot-accept approach, and is kept for
 comparison only. The `io_uring` API surface used here is still current on 2026
 kernels (not a TensorFlow-1-style dead end), but nothing here is maintained.
 
-**License:** No LICENSE file, no README, no copyright headers anywhere in the
-directory. Treat as the author's own unpublished experiments (all rights
-reserved by default); a license must be chosen explicitly before this is
-published as a repo.
+**License:** GNU AGPL v3 (see [`LICENSE`](LICENSE)).
