@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="assets/logo.svg" width="112" alt="fring logo">
+  <a href="README.md">English</a> | <strong>简体中文</strong>
 </p>
 
 <p align="center">
-  <a href="README.md">English</a> | 简体中文
+  <img src="assets/logo.svg" width="112" alt="fring logo">
 </p>
 
 <h1 align="center">fring</h1>
@@ -97,6 +97,8 @@ python3 astress.py
 
 欢迎提 issue 和 pull request，尤其欢迎新内核上的 bug 报告。改动请保持小而符合归档的气质：纯脚本，不引入打包、CI 或生成代码。新增实验时给它正确的前缀，并在合适的情况下补上配套的服务器/客户端。文档就是两份 README；行为变化时请同步更新两个语言版本。
 
+改动范围、如何自测、PR 的要求、issue 里该写什么，见 [`CONTRIBUTING.md`](CONTRIBUTING.md)。
+
 ## 路线图
 
 **已实现**
@@ -118,4 +120,4 @@ python3 astress.py
 
 GNU Affero 通用公共许可证 v3.0 —— 见 [`LICENSE`](LICENSE)。
 
-<sub>归档说明：2026-09-30 从私有 `~/my/fring` 集合复制而来，复制时丢弃了凭据和数据集，源目录未改动。最后一次修改是 2026-02。</sub>
+<sub>归档说明：2026-09-30 从私有 `~/my/fring` 集合复制而来，复制时丢弃了凭据和数据集，源码本身未做修改。</sub>

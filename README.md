@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="assets/logo.svg" width="112" alt="fring logo">
+  <strong>English</strong> | <a href="README.zh-CN.md">简体中文</a>
 </p>
 
 <p align="center">
-  English | <a href="README.zh-CN.md">简体中文</a>
+  <img src="assets/logo.svg" width="112" alt="fring logo">
 </p>
 
 <h1 align="center">fring</h1>
@@ -97,6 +97,8 @@ There is nothing to build or install. Edit a script and run it; the files are in
 
 Issues and pull requests are welcome, especially bug reports from newer kernels. Keep changes small and in the spirit of the archive: plain scripts, no packaging, no CI, no generated code. If you add an experiment, give it the right generation prefix and a matching server/client pair where it makes sense. Documentation lives in the READMEs; update both language versions when behavior changes.
 
+The details — scope, how to check a change, PR expectations, what to put in a bug report — are in [`CONTRIBUTING.md`](CONTRIBUTING.md).
+
 ## Roadmap
 
 **Implemented**
@@ -118,4 +120,4 @@ Issues and pull requests are welcome, especially bug reports from newer kernels.
 
 GNU Affero General Public License v3.0 — see [`LICENSE`](LICENSE).
 
-<sub>Archive note: copied from the private `~/my/fring` collection on 2026-09-30; credentials and datasets were dropped during the copy, and the source was not modified. Last touched 2026-02.</sub>
+<sub>Archive note: copied from the private `~/my/fring` collection on 2026-09-30; credentials and datasets were dropped during the copy, and the sources were not modified.</sub>
